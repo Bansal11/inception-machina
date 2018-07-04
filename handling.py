@@ -12,3 +12,5 @@ except (FileNotFoundError, ZeroDivisionError):
     print("sdsdsddsdsdsd")
 
 #i = 0/0
+
+#we added it here just for fun
